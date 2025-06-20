@@ -1,0 +1,16 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+
+# Virtual environments
+myenv/
+.env/
+
+# Env files
+.env
+
+# Data or output
+sql_files/
+json_output/
+*.sqlite3
+
